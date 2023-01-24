@@ -12,6 +12,10 @@ namespace ApolloProject.Controllers
         {
             return View();
         }
+        public IActionResult addAdmin()
+        {
+            return View();
+        }
 
     }
 }
