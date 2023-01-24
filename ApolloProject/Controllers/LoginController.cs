@@ -8,5 +8,10 @@ namespace ApolloProject.Controllers
         {
             return View();
         }
+        public IActionResult addmember()
+        {
+            return View();
+        }
+
     }
 }
