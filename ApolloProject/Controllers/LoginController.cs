@@ -16,6 +16,11 @@ namespace ApolloProject.Controllers
         {
             return View();
         }
+        public IActionResult addAddOwner()
+        {
+            return View();
+        }
+
 
     }
 }
